@@ -41,6 +41,7 @@ SAMPLE ARGUMENT :python C:\Users\Deekshith\Desktop\eclipse\eclipse_WorkSpace\278
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+
 3.Fixed Point 
 Fixed point addition and multiplication
 
